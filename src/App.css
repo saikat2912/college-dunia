@@ -1,38 +1,356 @@
 .App {
+  font-family: 'Calibri', monospace;
+  margin: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+
+
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 5px 10px;
   text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 2px 1px;
+  cursor: pointer;
+  border-radius: 4px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+button:hover {
+  background-color: #45a049;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+/*College Card */
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.college-card {
   display: flex;
   flex-direction: column;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 10px;
+
+}
+.college-informations{
+  display: flex;
+  flex-direction: row;
+}
+
+.college-logo img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.college-info {
+  margin-left: 20px;
+}
+
+.college-info h2 {
+  font-size: 1.5em;
+  margin: 0;
+  color: #007bff;
+}
+
+.college-info p {
+  margin: 5px 0;
+  color: #555;
+}
+
+.course-name {
+ display: flex;
+ flex-direction: column;
+ border-left: #f90 5px solid;
+
+}
+.name{
+  font-size: 17px;
+  color: #f90;
+  font-weight: bold;
+}
+.jeerank{
+  display: block;
+  font-size: 14px;
+}
+
+.course-name {
+  background-color: #ffeeba;
+  padding: 5px 10px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.cutoff {
+  margin-left: 10px;
+  color: #777;
+}
+
+.actions {
+  display: block;
+  margin-top: 30px;
+}
+
+.apply-now {
+  color: #007bff;
+  text-decoration: none;
+  margin-right: 160px;
+  font-weight: bold;
+}
+
+.download-brochure {
+  color: #28a745;
+  text-decoration: none;
+  margin-right: 160px;
+  font-weight: bold;
+}
+
+.compare-checkbox {
+  display: inline-flex;
+  align-items: center;
+  font-weight: bold;
+}
+
+.compare-checkbox input {
+  margin-right: 5px;
+}
+
+
+/* Fee section */
+
+.fee-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  
+  margin-top: -50px;
+  width: 150px;
+}
+
+.fee-amount {
+  font-size: 1.5em;
+  color: #28a745;
+  font-weight: bold;
+}
+
+.course-details {
+  margin: 5px 0;
+  color: #555;
+}
+
+.compare-fees a {
+  color: #f90;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.compare-fees a:hover {
+  text-decoration: underline;
+}
+
+/* placement */
+.placement-info {
+  font-family: 'Calibri', monospace;
+}
+
+.average-package {
+  color: #28a745;
+  font-size: 24px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.highest-package {
+  color: #28a745;
+  font-size: 24px;
+  margin: 20px 0 0 0;
+  font-weight: bold;
+}
+
+.label {
+  color: #666;
+  font-size: 14px;
+  margin: 0;
+}
+
+.compare-link {
+  color: #f90;
+  text-decoration: none;
+  font-size: 14px;
+  display: block;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.compare-link:hover {
+  text-decoration: underline;
+}
+
+/* User Reviews */
+
+.user-review {
+  font-family: 'Calibri', monospace;
+  margin-top: -50px;
+}
+
+.rating {
+  display: flex;
+  align-items: center;
+}
+
+.rating-value {
+  color: #666;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.reviews {
+  color: #666;
+  font-size: 14px;
+  margin: 5px 0;
+}
+
+.highlight {
+  background-color: #fff7e6;
+  border: 1px solid #f1c40f;
+  border-radius: 5px;
+  padding: 5px 10px;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.highlight-text {
+  color: #d9534f;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/* Ranking */
+
+.ranking-badge {
+  display: flex;
+  flex-direction: column;
+  margin-top: -50px;
+  font-family: 'Calibri', monospace;
+}
+
+.ranking {
+  display: flex;
+  align-items: baseline;
+}
+
+.rank {
+  font-size: 24px;
+  color: orange;
+}
+
+.details {
+  font-size: 16px;
+  margin-left: 5px;
+}
+
+.publication {
+  display: flex;
+  align-items: baseline;
+  margin-top: 5px;
+}
+
+.publication-name {
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.year {
+  font-size: 16px;
+}
+
+.logos {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.logo {
+  height: 20px;
+  margin-right: 5px;
+}
+
+.more {
+  font-size: 14px;
+  color: blue;
+  cursor: pointer;
+}
+
+/*Search Box */
+
+
+.search{
+  background-color: #78bec3;
+  height: 100px;
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.search-box {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  
+}
+
+.search-input {
+  padding: 10px;
+  width: 80%;
+  max-width: 600px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: all 0.3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-input:focus {
+  border-color: #007bff;
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.featured-tag {
+  display: inline-block;
+  background-color: #FF0000;
+  color: #FFFFFF;
+  font-weight: bold;
+  padding: 5px 20px;
+  margin-top: -15px;
+  border-radius: 25px;
+  position: absolute;
+  
+}
+
+.searchbox{
+  display: grid;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding: 20px;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}

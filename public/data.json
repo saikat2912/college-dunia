@@ -1,0 +1,1019 @@
+[
+    {
+        "cdr":1,
+        "college_name": "IIT Madras - Indian Institute of Technology- [IITM]",
+        "featured":false,
+        "logo": "images/iitmadras.png",
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200001,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70001,
+            "highest_package": 120001
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":1,
+        "india_today_total":131}
+        ,
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":7,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":2,
+        "college_name": "IIT Mumbai - Indian Institute of Technology- [IITM]",
+        "logo": "images/iitbombay.png",
+        "featured":true,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200002,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70002,
+            "highest_package": 120002
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":2,
+        "india_today_total":131},
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":7.1,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":3,
+        "college_name": "IIT Roorkee - Indian Institute of Technology- [IITM]",
+        "logo": "images/iitroorkee.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200003,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70003,
+            "highest_package": 120003
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":3,
+        "india_today_total":131},
+       
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":7.2,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":4,
+        "college_name": "IIT Kharagpur - Indian Institute of Technology- [IITM]",
+        "logo": "images/iitkharagpur.png",
+        "featured":true,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200004,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70004,
+            "highest_package": 120004
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":4,
+        "india_today_total":131},
+       
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":7.3,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":5,
+        "college_name": "Sarada Institute of Technologu",
+
+        "logo": "images/college1.png",
+
+        "featured":true,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200005,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70005,
+            "highest_package": 120005
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":5,
+        "india_today_total":131},
+      
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":7.4,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":6,
+        "college_name": "Vellore Institute of Technology",
+        "logo": "images/college2.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200006,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70006,
+            "highest_package": 120006
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":6,
+        "india_today_total":131},
+        
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":7.5,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":7,
+        "college_name": "SRM University",
+        "logo": "images/college4.png",
+        "featured":true,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200007,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70007,
+            "highest_package": 120007
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":7,
+        "india_today_total":131},
+        
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":7.6,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":8,
+        "college_name": "SOA University",
+        "logo": "images/college5.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200008,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70008,
+            "highest_package": 120008
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":8,
+        "india_today_total":131},
+        
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":7.7,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":9,
+        "college_name": "Vellamai Institute of Technology",
+       "logo": "images/college6.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200009,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70009,
+            "highest_package": 120009
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":9,
+        "india_today_total":131},
+        
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":7.8,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":10,
+        "college_name": "MIT Institute of Technology",
+       "logo": "images/college7.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200010,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70010,
+            "highest_package": 120010
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":10,
+        "india_today_total":131},
+        
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":7.9,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":11,
+        "college_name": "IIT GOA - Indian Institute of Technology- [IITM]",
+       "logo": "images/iitmadras.png",
+        "featured":true,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200011,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70011,
+            "highest_package": 120011
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":11,
+        "india_today_total":131},
+       
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":8.0,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":12,
+        "college_name": "IIT Bhubaneswar",
+       "logo": "images/iitkharagpur.png",
+        "featured":true,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200012,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70012,
+            "highest_package": 120012
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":12,
+        "india_today_total":131},
+      
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":8.1,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":13,
+        "college_name": "Modi Institute of Technology",
+        "logo": "images/college2.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200013,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70013,
+            "highest_package": 120013
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":13,
+        "india_today_total":131},
+        
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":8.2,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":14,
+        "college_name": "IIT Madras - Indian Institute of Technology- [IITM]",
+       "logo": "images/iitkharagpur.png",
+        "featured":true,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200014,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70014,
+            "highest_package": 120014
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":14,
+        "india_today_total":131},
+       
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":8.3,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":15,
+        "college_name": "Rahul Institute of Technology",
+        "logo": "images/college2.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200015,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70015,
+            "highest_package": 120015
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":15,
+        "india_today_total":131},
+        
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":8.4,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":16,
+        "college_name": "Bharatiya Institute of Technology",
+       "logo": "images/college4.png",
+        "featured":true,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200016,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70016,
+            "highest_package": 120016
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":16,
+        "india_today_total":131},
+        
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":8.5,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":17,
+        "college_name": "Calcutta Institute of Technology",
+        "logo": "images/college5.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200017,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70017,
+            "highest_package": 120017
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":17,
+        "india_today_total":131},
+       
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":8.6,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":18,
+        "college_name": "Callicut Institute of Technology",
+        
+        "logo": "images/college6.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200018,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70018,
+            "highest_package": 120018
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":18,
+        "india_today_total":131},
+        
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":8.7,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":19,
+        "college_name": "Bhubaneswar Institute of Technology",
+        "logo": "images/college7.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200019,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70019,
+            "highest_package": 120019
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":19,
+        "india_today_total":131},
+       
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":8.8,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":20,
+        "college_name": "Madrasa Institute",
+       "logo": "images/college7.png",
+        "featured":true,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200020,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70020,
+            "highest_package": 120020
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":20,
+        "india_today_total":131},
+       
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":8.9,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":21,
+        "college_name": "IIT Trichy ",
+        "logo": "images/iitkharagpur.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200021,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70021,
+            "highest_package": 120021
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":21,
+        "india_today_total":131},
+      
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":9.0,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":22,
+        "college_name": "KIIT University",
+       "logo": "images/college1.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200022,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70022,
+            "highest_package": 120022
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":22,
+        "india_today_total":131},
+        
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":9.1,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":23,
+        "college_name": "Nalanada Institute of Technology",
+        "logo": "images/college5.png",
+        "featured":true,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200023,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70023,
+            "highest_package": 120023
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":23,
+        "india_today_total":131},
+       
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":9.2,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":24,
+        "college_name": "Gandhi Institute of Technology",
+      "logo": "images/college7.png",
+        "featured":true,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200024,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70024,
+            "highest_package": 120024
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":24,
+        "india_today_total":131},
+      
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":9.3,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":25,
+        "college_name": "Annama Institute of Technology",
+        "logo": "images/iitkharagpur.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200025,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70025,
+            "highest_package": 120025
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":25,
+        "india_today_total":131},
+        
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":9.4,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":26,
+        "college_name": "DAV Institute of Technology",
+        "logo": "images/college4.png",
+        "featured":true,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200026,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70026,
+            "highest_package": 120026
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":26,
+        "india_today_total":131},
+        
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":9.5,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":27,
+        "college_name": "Vivekananda Institute of Technology",
+        "logo": "images/college7.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200027,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70027,
+            "highest_package": 120027
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":27,
+        "india_today_total":131},
+        
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":9.6,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":28,
+        "college_name": "Ramkrishna Institute of Technology",
+        "logo": "images/college6.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200028,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70028,
+            "highest_package": 120028
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":28,
+        "india_today_total":131},
+        
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":9.7,
+            "total_reviews":106
+        }
+    },
+    {
+        "cdr":29,
+        "college_name": "Cambridge University",
+       "logo": "images/college1.png",
+        "featured":false,
+        "college_details": {
+           
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "course_details":{"course_name":"B.Tech Computer Science Engineering",
+        "jee_exam_name":"JEE_Advanced 2023 Cutoff",
+    "jee_cutoff":115},
+            
+            "accreditions":["AICTE Approved","PCI","INC","GNC Approved"]
+            
+        },
+        "course_fee_details": {
+            "college_fees":200029,
+            "course_name":"BE/BTech"
+        },
+        "placement_details": {
+            "average_package": 70029,
+            "highest_package": 120029
+            
+        },
+        "ranking_details": 
+            {"india_today_rank":29,
+        "india_today_total":131},
+      
+        "ranking_logos":["images/theweek.png","images/indiatoday.png","images/toi.png"],
+        "user_reviews": {
+            "average_rating":9.8,
+            "total_reviews":106
+        }
+    }
+]
